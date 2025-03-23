@@ -1,0 +1,6 @@
+.venv
+.env
+agent_relationships
+__pycache__/
+.vscode
+.idea

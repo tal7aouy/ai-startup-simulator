@@ -1,0 +1,10 @@
+camel-ai==0.1.6.7
+anthropic<0.30.0,>=0.29.0
+graphviz==0.20.3
+python-dotenv==1.0.1
+fastapi==0.115.11
+uvicorn==0.34.0
+matplotlib==3.9.4
+numpy==1.26
+Jinja2==3.1.6
+python-multipart==0.0.20
